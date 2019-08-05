@@ -7,7 +7,7 @@
 //////////////////PROBLEM 2////////////////////
 
 //Create a variable called myAge that is a number data type
-
+sdfsdd dfadsg 
 //Code here
 
 //////////////////PROBLEM 3////////////////////
